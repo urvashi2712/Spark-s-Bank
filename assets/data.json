@@ -1,0 +1,64 @@
+[{
+    "id": 1,
+    "Customer_Name": "Shreya",
+    "Balance": 10000,
+    "amount": 1000,
+    "CrDr": "Credit",
+    "MailId": "Shreya@gmail.com"
+  },
+  {
+    "id":2,
+    "Customer_Name":"Akhil",
+    "Balance":2000,
+    "amount": 200,
+    "CrDr": "Debit",
+    "MailId": "Akhil@gmail.com"
+  },
+  {
+    "id":3,
+    "Customer_Name":"Rahul",
+    "Balance": 1000,
+    "amount":2000,
+    "CrDr":"Credit",
+    "MailId":"Rahul@gmail.com"
+  },
+  {
+    "id":4,
+    "Customer_Name":"Priyanka",
+    "Balance": 10000,
+    "amount":200,
+    "CrDr":"Debit",
+    "MailId":"Priyanka@gmail.com"
+  },
+  {
+    "id":5,
+    "Customer_Name":"Rohan",
+    "Balance":80000,
+    "amount":20000,
+    "CrDr":"Credit",
+    "MailId":"Rohan@gmail.com"
+  },
+  {
+    "id":6,
+    "Customer_Name":"Raj",
+    "Balance": 60000,
+    "amount":200,
+    "CrDr":"Credit",
+    "MailId":"Raj@gmail.com"
+  },
+  {
+    "id":7,
+    "Customer_Name":"Abhilasha",
+    "Balance": 100000,
+    "amount":20000,
+    "CrDr":"Debit",
+    "MailId":"Abhilasha@gmail.com"
+  },
+  {
+    "id":8,
+    "Customer_Name":"Mohan",
+    "Balance":50000,
+    "amount":900,
+    "CrDr":"Credit",
+    "MailId":"Mohan@gmail.com"
+  }]
